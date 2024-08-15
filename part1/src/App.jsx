@@ -26,7 +26,7 @@ const App = () => {
     <> 
       <Header course={course} />
       <Content/>
-      <Total />
+      <Total  parts={parts} />
     </>
     
   )
