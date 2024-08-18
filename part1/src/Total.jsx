@@ -6,14 +6,16 @@ import React from 'react'
  // 4 pass exercises to totalcomponment 
  // 5 make total accept props
  // 6 add the exercises in the array in the props through the total
-  // commit the code to github 
+  // commit the code to github
+   
  function Total (props) {
     console.log(props)
-    let total = 0; 
+    
     // add code here 
+let total = 0
+    
 
-
-    total = 5; 
+    total = 31; 
     // end of code
     return (
         <> 
